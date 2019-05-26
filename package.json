@@ -6,7 +6,6 @@
   "scripts": {
     "build": "gulp build",
     "test": "gulp test",
-    "install": "npm run build"
   },
   "files": [
     "lib",
