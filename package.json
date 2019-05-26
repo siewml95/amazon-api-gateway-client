@@ -2,13 +2,14 @@
   "license": "MIT",
   "main": "lib/index.js",
   "name": "amazon-api-gateway-client",
-  "repository": "r7kamura/amazon-api-gateway-client",
+  "repository": "siewml95/amazon-api-gateway-client",
   "scripts": {
     "build": "gulp build",
     "test": "gulp test"
   },
   "files": [
-    "lib"
+    "lib",
+    "src"
   ],
   "version": "0.1.4",
   "devDependencies": {
